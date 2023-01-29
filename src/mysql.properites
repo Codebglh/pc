@@ -1,0 +1,4 @@
+user=root
+password=liuhonga
+url=jdbc:mysql://localhost:3306/shayu?rewriteBatchedStatements=true
+
